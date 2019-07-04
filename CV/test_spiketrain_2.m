@@ -28,5 +28,3 @@ figure;
 plot(CV_vec);
 
 %fprintf('CV = %.01f\n', CV_1);
-
-% 11111111
